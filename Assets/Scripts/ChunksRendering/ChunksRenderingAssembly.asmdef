@@ -1,0 +1,17 @@
+{
+    "name": "ChunksRenderingAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6f6eaf96a0d8f35b3bf072193d9873bc",
+        "GUID:8b7112b5172c1ed5ebd17b639da2409b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
